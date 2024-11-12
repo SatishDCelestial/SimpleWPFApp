@@ -4,4 +4,5 @@
 
 /.vs/FarPoint.Win.Spread
 /bin/Debug
-/obj
+/obj/debug
+/obj/Release
